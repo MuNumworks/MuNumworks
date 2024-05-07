@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuNumworks
-- 👀 I’m interested in AI and framework developement 
+- 👀 I’m interested in AI and framework developpement 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me @systeme_eratz on discord
